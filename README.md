@@ -17,6 +17,6 @@ Record from Database Using Wordpress and MySQL with shortcode use
 
 # This plugin contain there shortcode:
 1) Display Page or post in form view
-<code>[mt_customers]</code>
+# [mt_customers]
 
 
