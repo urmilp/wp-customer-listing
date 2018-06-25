@@ -19,4 +19,14 @@ Record from Database Using Wordpress and MySQL with shortcode use
 ## This plugin contain there shortcode: ##
 1) Display Page or post in form view [mt_customers]
 
+## Screenshots ##
+
+###1. Customer Listing.###
+![Customer Listing.](screenshots/s1.png?raw=true)
+
+###2. Edit Customer (backend).###
+![Edit Customer (backend).](screenshots/s2.png?raw=true)
+
+###4. Front end Form.###
+![Front end Form).](screenshots/s3.png?raw=true)
 
