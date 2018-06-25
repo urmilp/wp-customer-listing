@@ -16,7 +16,6 @@ Record from Database Using Wordpress and MySQL with shortcode use
 2. Activate the "wp-customer-listing" list plugin through the 'Plugins' menu in WordPress.
 
 # This plugin contain there shortcode:
-1) Display Page or post in form view
-# [mt_customers]
+1) Display Page or post in form view [mt_customers]
 
 
