@@ -547,12 +547,12 @@ function mt_management_customers_form_page_handler()
     }
 
     // here we adding our custom meta box
-    add_meta_box('customers_form_meta_box', 'Person data', 'mt_management_customers_form_meta_box_handler', 'customer', 'normal', 'default');
+    add_meta_box('customers_form_meta_box', 'Customer Data', 'mt_management_customers_form_meta_box_handler', 'customer', 'normal', 'default');
 
     ?>
 <div class="wrap">
     <div class="icon32 icon32-posts-post" id="icon-edit"><br></div>
-    <h2><?php _e('Person', 'mt_management')?> <a class="add-new-h2"
+    <h2><?php _e('Customer', 'mt_management')?> <a class="add-new-h2"
                                 href="<?php echo get_admin_url(get_current_blog_id(), 'admin.php?page=customers');?>"><?php _e('back to list', 'mt_management')?></a>
     </h2>
 
